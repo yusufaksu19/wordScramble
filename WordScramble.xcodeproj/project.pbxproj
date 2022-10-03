@@ -16,6 +16,7 @@
 		8E4750A528EAC4D600EB54AC /* WordScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4750A428EAC4D600EB54AC /* WordScrambleTests.swift */; };
 		8E4750AF28EAC4D600EB54AC /* WordScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4750AE28EAC4D600EB54AC /* WordScrambleUITests.swift */; };
 		8E4750B128EAC4D600EB54AC /* WordScrambleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4750B028EAC4D600EB54AC /* WordScrambleUITestsLaunchTests.swift */; };
+		8E4750BE28EAC64600EB54AC /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8E4750BD28EAC64600EB54AC /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8E4750AA28EAC4D600EB54AC /* WordScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WordScrambleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E4750AE28EAC4D600EB54AC /* WordScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleUITests.swift; sourceTree = "<group>"; };
 		8E4750B028EAC4D600EB54AC /* WordScrambleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8E4750BD28EAC64600EB54AC /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				8E47509628EAC4D600EB54AC /* Assets.xcassets */,
 				8E47509828EAC4D600EB54AC /* LaunchScreen.storyboard */,
 				8E47509B28EAC4D600EB54AC /* Info.plist */,
+				8E4750BD28EAC64600EB54AC /* start.txt */,
 			);
 			path = WordScramble;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E47509A28EAC4D600EB54AC /* LaunchScreen.storyboard in Resources */,
+				8E4750BE28EAC64600EB54AC /* start.txt in Resources */,
 				8E47509728EAC4D600EB54AC /* Assets.xcassets in Resources */,
 				8E47509528EAC4D400EB54AC /* Main.storyboard in Resources */,
 			);
